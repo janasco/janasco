@@ -2,7 +2,7 @@
                                                                                               
 ## Father of two kiddos and full-stack developer!
 
-Hi, I'm Jaymar Anasco, a passionate self-taught Web Developer and a freelance IT support from Philippines.
+Hi, I'm J̼a̼y̼m̼a̼r̼ A̼n̼a̼s̼c̼o̼, a passionate self-taught Web Developer and a freelance IT support from Philippines.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
